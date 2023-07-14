@@ -48,7 +48,7 @@ Program written in C that uses memory allocation and dynamic data structures to 
 6. Top 5 songs released in 1999 *or* 2009 with most energy score
 7. Top 10 songs released in 1999, 2009, *or* 2019 with most popularity score
 
-The program generates an output file that contains four demensional data with the following columns: Artist, Song, Year, and Category. 
+The program generates an output file that contains four dimensional data with the following columns: Artist, Song, Year, and Category. 
 
 <h3>A4: Card Generator</h3>
-Program written in Python that uses customized classes to generate greeting cards in the form of HTML-SVG pages. [Example]() of a generated card.
+Program written in Python that uses customized classes to generate greeting cards in the form of HTML-SVG pages, focusing on object-oriented design and effective program decomposition. 
