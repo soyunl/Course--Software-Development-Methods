@@ -2,7 +2,6 @@
 Completed projects from Software Development Methods course. Further information about the course can be found [here](https://heat.csc.uvic.ca/coview/course/2022051/SENG265)
 
 <h2>Projects</h2>
----
 <h3>A1: icalendar Scheduler</h3>
 Program written in C that inputes lines of data from a provided calendar file (.ics), accepts options and arguments from the command line, and then outputs to the console events from the calendar file into a more readable format. 
 
